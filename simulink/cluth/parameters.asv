@@ -1,0 +1,12 @@
+T1=200; 
+T2=0;
+I1=1;
+I2=5;
+mu=0.3;
+ri=10;
+ra=15;
+fk=5000;
+x1=0;
+x3=0;
+x2=200; % initia
+x4=0;  % initinal velocity for the disk 2

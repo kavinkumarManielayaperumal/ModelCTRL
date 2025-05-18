@@ -1,0 +1,14 @@
+T1=200; %troque on the dick 1
+T2=0;   %troque ont the dick2
+I1=1;
+I2=5;
+mu=0.3;
+ri=0.1;
+ra=0.15;
+fk=4000;
+phi_10 = 0;         % initial angle of driving side (rad)
+phi_20 = 0;         % initial angle of output side (rad)
+x1=0;  %initinal position for the disk1
+x3=0;  % initinal position for the disk2
+x2=200; % initinal vleocity for the disk1
+x4=0;  % initinal velocity for the disk 2
